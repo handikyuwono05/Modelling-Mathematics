@@ -1,11 +1,3 @@
-%% 1 yang seharusnya volatilitas, rerata, dan epsilon pada Wiener Process (Wt) berubah tiap waktu yha namanya modifan
-close all
-clear all
-clc
-
-
-
-%% 2 yang seharusnya didefine alpha,beta per kill B,A per time yha namanya modifan
 close all
 clear all
 clc
